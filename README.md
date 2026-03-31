@@ -2,13 +2,10 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+## Try it in your browser
 
-## ✨ Try it in your browser ✨
+➡️ **https://manlaya.github.io/init-python-amorse/**
 
-➡️ **https://jupyterlite.github.io/demo**
-
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
 ## Requirements
 
@@ -17,21 +14,19 @@ JupyterLite is being tested against modern web browsers:
 - Firefox 90+
 - Chromium 89+
 
-## Deploy your JupyterLite website on GitHub Pages
+## Disclaimer
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+This repo is created using the [JupyterLite](https://github.com/jupyterlite/jupyterlite) template.
+See the [documentation](https://jupyterlite.readthedocs.io/en/stable/quickstart/deploy.html) for
+more informations.
 
-## Further Information and Updates
+The python content of this repo is adapted from Python trainings from French Geological Survey
+(BRGM), see https://gitlab.com/fsmai/formation-python.
 
-For more info, keep an eye on the JupyterLite documentation:
+General python part is adapted from Farid Smai & Théophile Guillon (BRGM) works.
+Marthe-python part is adapted from Jean-Pierre Vergnes, Ryma Aissat (BRGM) works, and `gridmarthe`
+documentation (A. Manlay, BRGM).
 
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+## Licence
 
-This template provides the Pyodide kernel (`jupyterlite-pyodide-kernel`), the JavaScript kernel (`jupyterlite-javascript-kernel`), and the p5 kernel (`jupyterlite-p5-kernel`), along with other
-optional utilities and extensions to make the JupyterLite experience more enjoyable. See the
-[`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
-
-For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
-
-
+This work is licensed under the terms of the BSD 3-Clause license. See [LICENSE](LICENSE) for more details.
