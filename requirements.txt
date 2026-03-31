@@ -38,22 +38,3 @@ ipympl>=0.8.2
 ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
-
-# requirements for marthe-python
-numpy
-pandas
-geopandas
-matplotlib
-scipy
-scikit-learn
-shapely
-pyproj
-xarray
-netcdf4
-h5py
-h5netcdf
-tables
-python-dateutil
-tqdm
-gridmarthe >= 0.3
-git+https://gitlab.com/brgm/hydrogeological-modelling/marthe-tools/martpy@dev
